@@ -9,5 +9,8 @@
 <p><b>Порядок установки:</b></p>
 <ol>
     <li>Скопировать репозитарий через git clone</li>
-    <li>Скопировать репозитарий через git clone</li>
+    <li>Запустить установка composer install</li>
+    <li>Выполнить инициализацию php yii init или yii init</li>
+    <li>Мигрировать базу данных команлой php yii migrate или yii migrate</li>
+    <li>Готово</li>
 <ol>
